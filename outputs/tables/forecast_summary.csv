@@ -1,0 +1,10 @@
+metric,value
+Selected model,Exponential Smoothing
+Forecast start,2018-01
+Forecast end,2018-12
+Forecast months,12
+Total forecast sales,910080.6288812935
+Average monthly forecast,75840.05240677446
+Minimum monthly forecast,41475.678356549644
+Maximum monthly forecast,116029.87429950412
+Peak forecast month,2018-12
