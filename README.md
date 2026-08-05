@@ -1,4 +1,4 @@
-# Superstore Sales Forecasting
+# Sales and Demand Forecasting ML Model
 
 ## Project Overview
 
